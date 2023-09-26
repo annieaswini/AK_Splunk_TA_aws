@@ -1,0 +1,2 @@
+import{d as e}from"./vendor-024cf9ec.js";var r={enterprise:{family:"enterprise",colorScheme:"light",density:"comfortable"},enterpriseDark:{family:"enterprise",colorScheme:"dark",density:"comfortable"},lite:{family:"enterprise",colorScheme:"light",density:"comfortable"},prisma:{family:"prisma",colorScheme:"light",density:"comfortable"}},i=r[e()]||r.enterprise;export{i as T};
+//# sourceMappingURL=Theme-731a73d2.js.map
